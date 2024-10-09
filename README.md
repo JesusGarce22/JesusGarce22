@@ -29,7 +29,3 @@
 </div>
 
 ---
-
-<div id ="badges" align ="center">
-    
-[![Jesus WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JesusGarce22)](https://github.com/JesusGarce22)
