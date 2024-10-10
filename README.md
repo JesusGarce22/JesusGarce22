@@ -7,9 +7,7 @@
 
 - 📫 How to reach me **jesus02garces@gmail.com**
 
-- 📚 Education **Student in ICESI University, IX semester**
-
-- [CV](https://drive.google.com/file/d/1lEJNEc10s6wZ-P939DX64DwBM6kyOXLn/view?usp=drive_link) 
+- 📚 Education **Student in ICESI University, IX semester**  [CV](https://drive.google.com/file/d/1lEJNEc10s6wZ-P939DX64DwBM6kyOXLn/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,11 +21,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jesusgarce22&show_icons=true&locale=en&layout=compact" alt="jesusgarce22" /></p>
 
-### Trends:
-
-<div id ="badges" align ="center">
-    
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/JesusGarce22/repos?time_range=one_year&group=other&loc_metric=changed&theme=classic)](https://github.com/JesusGarce22)
-</div>
-
----
