@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jesus</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **JAVA and web development using react, JS, HTML and CSS**
+- 💬 Ask me about **JAVA, DevOps and web development using vite, react, TSX**
 
 - 📫 How to reach me **jesus02garces@gmail.com**
 
-- 📚 Education **Student in ICESI University, IX semester**  [CV](https://drive.google.com/file/d/1lEJNEc10s6wZ-P939DX64DwBM6kyOXLn/view?usp=drive_link) 
+- 📚 Education **Student in ICESI University, X semester**  [CV](https://drive.google.com/file/d/1lEJNEc10s6wZ-P939DX64DwBM6kyOXLn/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
