@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jesus02garces@gmail.com**
 
-- 📚 Education **Student in ICESI University, X semester**  [CV](https://drive.google.com/file/d/1lEJNEc10s6wZ-P939DX64DwBM6kyOXLn/view?usp=drive_link) 
+- 📚 Education **ICESI University**  [CV](https://drive.google.com/file/d/1lEJNEc10s6wZ-P939DX64DwBM6kyOXLn/view?usp=drive_link) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
